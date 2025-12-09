@@ -38,6 +38,7 @@ nav ul li a:hover {
     background: url('../Images/Hero.png') no-repeat center center/cover;
     padding: 100px 20px;
     opacity: 0.8;
+    color: #fff;
     
 }
 .btn {
